@@ -1,0 +1,10 @@
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\01_S_XML\obj\Debug\01_Serializar_XML.csproj.AssemblyReference.cache
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\01_S_XML\obj\Debug\01_Serializar_XML.csproj.CoreCompileInputs.cache
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\01_S_XML\bin\Debug\01_S_XML.exe.config
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\01_S_XML\bin\Debug\01_S_XML.exe
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\01_S_XML\bin\Debug\01_S_XML.pdb
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\01_S_XML\bin\Debug\00_Biblioteca.dll
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\01_S_XML\bin\Debug\00_Biblioteca.pdb
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\01_S_XML\obj\Debug\01_Seria.DFA626B0.Up2Date
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\01_S_XML\obj\Debug\01_S_XML.exe
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\01_S_XML\obj\Debug\01_S_XML.pdb

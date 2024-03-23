@@ -1,0 +1,10 @@
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\03_SerializarJSON\bin\Debug\03_SerializarJSON.exe.config
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\03_SerializarJSON\bin\Debug\03_SerializarJSON.exe
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\03_SerializarJSON\bin\Debug\03_SerializarJSON.pdb
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\03_SerializarJSON\bin\Debug\00_Biblioteca.dll
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\03_SerializarJSON\bin\Debug\00_Biblioteca.pdb
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\03_SerializarJSON\obj\Debug\03_SerializarJSON.csproj.AssemblyReference.cache
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\03_SerializarJSON\obj\Debug\03_SerializarJSON.csproj.CoreCompileInputs.cache
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\03_SerializarJSON\obj\Debug\03_Seria.C25E8E96.Up2Date
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\03_SerializarJSON\obj\Debug\03_SerializarJSON.exe
+C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\03_SerializarJSON\obj\Debug\03_SerializarJSON.pdb
