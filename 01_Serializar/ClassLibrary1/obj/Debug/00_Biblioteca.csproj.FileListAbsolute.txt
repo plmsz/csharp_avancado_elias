@@ -1,6 +1,0 @@
-C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\ClassLibrary1\obj\Debug\00_Biblioteca.csproj.AssemblyReference.cache
-C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\ClassLibrary1\obj\Debug\00_Biblioteca.csproj.CoreCompileInputs.cache
-C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\ClassLibrary1\bin\Debug\00_Biblioteca.dll
-C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\ClassLibrary1\bin\Debug\00_Biblioteca.pdb
-C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\ClassLibrary1\obj\Debug\00_Biblioteca.dll
-C:\Users\paloma.souza\Downloads\csharp_avancado_elias\01_Serializar\ClassLibrary1\obj\Debug\00_Biblioteca.pdb
