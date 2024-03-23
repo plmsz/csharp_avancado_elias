@@ -1,0 +1,61 @@
+# Arquivos gerados pelo Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vs
+*.bak
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.swp
+*.sdf
+*.tmp
+*.docstates
+
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos gerados pelo NuGet
+packages/
+
+# Arquivos gerados pela IDE
+*.vscode/
+*.sln.ide
+
+# Arquivos de configuração de ambiente
+*.env
+
+# Arquivos de saída do build
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.exe.config
+
+# Arquivos gerados pela documentação
+_docs/
+
+# Arquivos gerados por ferramentas de teste
+TestResults/
+
+# Arquivos gerados por ferramentas de análise de código
+*.DotSettings
+*.editorconfig
+*.dotCover
+*.dotMemory
+
+# Outros arquivos temporários ou irrelevantes
+*.log
+*.tmp
+*.swp
+Thumbs.db
+*.DS_Store
