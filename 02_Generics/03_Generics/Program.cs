@@ -26,7 +26,7 @@ namespace _02_Generics
 
             Console.WriteLine("Carro: {0} - {1}", carro2.Marca, carro2.Modelo);
             Console.WriteLine("Casa: {0} - {1}", casa2.Cidade, casa2.Endereço);
-            Console.WriteLine("Carro: {0} - {1} - {3}",usuario2.Nome, usuario2.Email, usuario2.Cpf);
+            Console.WriteLine("Carro: {0} - {1} - {2}",usuario2.Nome, usuario2.Email, usuario2.Cpf);
 
             Console.ReadKey();
 
