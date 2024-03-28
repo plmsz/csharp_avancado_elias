@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{38C8E03D-0CCA-48FF-B608-275C5DA266B8}</ProjectGuid>
+    <ProjectGuid>{E11CE083-211E-40E8-BB24-A21C042CE51E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01_S_XML</RootNamespace>
-    <AssemblyName>01_S_XML</AssemblyName>
+    <RootNamespace>_04_2_Delegate</RootNamespace>
+    <AssemblyName>04_2_Delegate</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,17 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Lib\Foto.cs" />
+    <Compile Include="Lib\FotoProcessador.cs" />
+    <Compile Include="Lib\FotoFiltro.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\00_Biblioteca.csproj">
-      <Project>{57653a1a-8c69-4080-9e5c-15955d9e8d3a}</Project>
-      <Name>00_Biblioteca</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

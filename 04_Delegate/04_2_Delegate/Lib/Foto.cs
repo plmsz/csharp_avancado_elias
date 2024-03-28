@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _00_Biblioteca
+namespace _04_2_Delegate.Lib
 {
-    public class Usuario
+    internal class Foto
     {
         public string Nome { get; set; }
-        public string Cpf { get; set; }
-        public string Email { get; set; }
-
+        public int TamanhoX { get; set; }
+        public int TamanhoY { get; set; }
     }
 }
