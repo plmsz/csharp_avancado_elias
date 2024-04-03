@@ -10,6 +10,23 @@ Referencia += Metodo2();
 
 Referencia(); //Metodo1()+Metodo2
 
+Classe Botao 
+{
+    Propriedades (Icones, Texto, Tamanho)
+    Eventos (Clique, 2Clicks, Hover)
+}
+
+ClickEventArgs : EventArgs {
+    PosicionamentoClick (x,y)
+}
+
+Clicar (this, new Click EventArgs(Curso.Posicao.x, Curso.Posicao.y))
+
+Botao btn = new Botao("Salvar")
+
+btn.Clicar = MetodoClicarParaSalvar()
+
+public MetodoClicarParaSalvar(){}
 ```
 # Conceito
 
