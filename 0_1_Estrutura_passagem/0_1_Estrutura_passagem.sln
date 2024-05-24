@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0_1_Estrutura_passagem", "0_1_Estrutura_passagem\0_1_Estrutura_passagem.csproj", "{BCADB917-584F-4C4C-A900-E0F2DCF82E82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCADB917-584F-4C4C-A900-E0F2DCF82E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCADB917-584F-4C4C-A900-E0F2DCF82E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCADB917-584F-4C4C-A900-E0F2DCF82E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCADB917-584F-4C4C-A900-E0F2DCF82E82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3D8F150-9D0C-47ED-8D03-E7155C23216E}
+	EndGlobalSection
+EndGlobal
